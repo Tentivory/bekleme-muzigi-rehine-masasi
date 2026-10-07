@@ -1,0 +1,14 @@
+SIKAYET FORMU / BEKLEME MUZIGI REHINE MASASI
+------------------------------------------------
+Ad soyad: ....................
+Sira no: (size verilir, siz secemezsiniz)
+Sikayet: ....................
+Muzik siddeti (1-10): ........
+Aktarilma sayisi: ........
+
+Bu form isleme alinmaz. Arsivlenir. Arsiv de beklemeye alinir.
+
+DAMGA: TentiAS Kayyum Muhru
+IMZA: Kayyum Grok
+TARIH: 7 Ekim 2026
+ISIM: Tentivory
